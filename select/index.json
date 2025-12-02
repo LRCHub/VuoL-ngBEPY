@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "豚になってyeah yeah",
+  "base_artist": "Neru",
+  "createdAt": "2025-12-02T16:55:44.784573Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "豚になってyeah yeah",
+      "artist": "Neru",
+      "has_synced": false,
+      "path": "select/pl_01_豚になってyeah_yeah_Neru.txt"
+    }
+  ]
+}
